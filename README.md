@@ -1,9 +1,5 @@
 # HPB Custom Address
 
-[![Build Status][build-img]][build-link]
-[![License][license-img]][license-link]
-[![Maintainability][maint-img]][maint-link]
-
 Browser-based HPB custom address generator
 
 ## What's a custom address?

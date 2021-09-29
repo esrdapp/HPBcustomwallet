@@ -6,7 +6,9 @@ Browser-based HPB custom address generator
 
 A custom address is an address which part of it is chosen by yourself, making it look less random.
 
-Examples: `0xc0ffee254729296a45a3885639AC7E10F9d54979`, or `0x999999cf1046e68e36E1aA2E0E07105eDDD1f08E`
+You can use any hexadecimal character/s - abcdef0123456789
+
+Examples: adding in "coffee" `0xc0ffee254729296a45a3885639AC7E10F9d54979`, or adding in 999999 `0x999999cf1046e68e36E1aA2E0E07105eDDD1f08E`
 
 ## Usage
 
